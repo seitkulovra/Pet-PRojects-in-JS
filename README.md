@@ -1,3 +1,3 @@
 # Pet-PRojects-in-JS
 
-Hi! I'm self-taught frontend developer student, who study at second level of bachelor in International IT University.
+В данной работе я работал со сложными функциями на языка JS и ООП языка. Более того, продемонстрировал на рабочем сайте. У вас есть возможность запустить через онлайн компиляторы.
